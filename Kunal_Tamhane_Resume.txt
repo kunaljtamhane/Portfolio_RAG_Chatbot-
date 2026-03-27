@@ -1,0 +1,42 @@
+Kunal Jatin Tamhane
+Chicago, IL (Open to Relocate) | (312)-221-4104 | kunaljtamhane@gmail.com | GitHub | LinkedIn
+
+Data Scientist 
+A Data Scientist with hands-on experience training, evaluating, and deploying Artificial Intelligence (AI)/Machine Learning (ML) systems across Natural Language Processing(NLP), and Large Language Model (LLMs) based systems, with a strong foundation in Python, Mobile Application Development, data pipelines, and cloud-native infrastructure. Currently pursuing an MS in Artificial Intelligence at DePaul University with a 3.9 GPA.  With experience in Azure Data Engineering and AWS Cloud Servies.
+EDUCATION
+  DePaul University | MS in Artificial Intelligence (NLP + Deep Learning) | GPA: 3.9/4	     Jan 2024 – present
+Mumbai University | BS in Electrical Engineering | GPA: 3.6/4	Aug 2019 – May 2023
+TECHNICAL SKILLS
+• Languages: Python, Java, SQL
+• Cloud Platforms/ MLOps: AWS (S3, EC2, SageMaker), Google Cloud Platform (GCP), CI/CD, Foundation Models
+• ML Frameworks: PyTorch, TensorFlow, Scikit-learn, XGBoost, Hugging Face, OpenAI, GPS, Azure, NumPy, Pandas
+• Generative AI: RAG pipelines, OCR, Prompt Engineering, LLM fine-tuning, Knowledge graphs, Information Retrieval
+• LLM APIs: OpenAI, Anthropic (Claude)
+• ETL Technologies: Apache Spark, Hadoop, Snowflake, Informatica, Airflow, Network Engineer
+• Data: NumPy, Pandas, Matplotlib, Plotly, GPT, Claude, LLaMA
+• Vector Databases & Streaming: ChromaDB, FAISS, Weaviate, Kafka
+• Workflow & Automation: Agentic AI, Model Context Protocol (MCP), Docker
+EXPERIENCE
+DePaul University | Machine Learning Research Assistant	 Sep 2024 – present
+Medical Informatics and Data Analytics Lab
+• Trained and evaluated ML models for human activity and posture recognition using computer vision, processing 10,000+ image/video frames with ~90% classification accuracy.
+• Built and optimized end-to-end data preprocessing and feature engineering pipelines using OpenCV, NumPy, and Scikit-learn, improving model robustness and reproducibility.
+• Analyzed structured time-series and video data from 120+ Parkinson's patients, applying classification models and statistical analysis to assess disease progression.
+• Debugged and optimized model performance using interpolation techniques to handle occlusions, improving accuracy by ~14%.
+AriesView Inc. | AI Engineer Intern (Startup)	Jun 2025 – Sep 2025
+Boston, MA
+• Trained and refined LLMs for document intelligence workflows, improving inference accuracy by 18% through iterative fine-tuning and evaluation on 5,000+ financial and legal documents.
+• Built and maintained scalable AWS-based ML pipelines (S3, EC2) supporting model training and deployment on 10+ GB structured datasets.
+• Automated data processing workflows, improving predictive accuracy by 15% and reducing data pipeline latency by 30%.
+• Integrated ML models into production systems backed by PostgreSQL (100K+ records), collaborating closely with engineers to ensure reliable real-world deployment.
+PROJECTS
+Cleantech Media LLM enabled application using Agentic AI | LangGraph, ChromaDB, MCP | GitHub	Apr 2024 – Jan 2025
+• Architected an autonomous RAG architecture NLP system over 10K+ documents, enabling contextual Q&A via vector-based retrieval — directly aligned with LLM application and RAG pipeline development.
+• Implemented agentic tool orchestration using Model Context Protocol (MCP) and LLM-as-Judge evaluation, improving retrieval and response accuracy by ~20% across large-scale query sets.
+Amazon Visual Language Model | Transformers, PyTorch, Hugging Face | GitHub	Jun 2025 – Dec 2025
+• Engineered a custom Vision–Text Transformer to align 1,300+ product images and descriptions into a shared embedding space for cross-modal GenAI experimentation and applied ML prototyping.
+• Implemented contrastive learning with cosine similarity, achieving ~85% top-5 retrieval accuracy and enabling real-time cold-start recommendations.
+CERTIFICATIONS
+• AWS Certified Machine Learning Engineer Associate	(Jan 2026)
+• AWS AI Practitioner	(May 2025)
+• Stanford Machine Learning Certification	(Sep 2024)
