@@ -1,0 +1,16 @@
+# Security - NEVER COMMIT THESE!
+.env
+
+# Python Virtual Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Vector Database & Downloaded Files
+# (We ignore these because your code will automatically rebuild them from S3!)
+faiss_index/
+downloaded_resume.txt
+Kunal_Tamhane_Resume.txt

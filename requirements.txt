@@ -1,0 +1,18 @@
+# AWS Cloud Storage
+boto3
+
+# Environment Variables
+python-dotenv
+
+# LangChain Ecosystem (RAG & Chunking)
+langchain-text-splitters
+langchain-google-genai
+langchain-community
+
+# Local Vector Database
+faiss-cpu
+
+# API Backend
+fastapi
+uvicorn
+pydantic
